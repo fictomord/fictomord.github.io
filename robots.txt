@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fictomord.github.io/fictomord.fictomord
+Sitemap: https://fictomord.github.io/app/fictomord.fictomord
+Sitemap: https://fictomord.github.io/assets/fictomord.fictomord
+Sitemap: https://fictomord.github.io/css/fictomord.fictomord
+Sitemap: https://fictomord.github.io/includes/fictomord.fictomord
+Sitemap: https://fictomord.github.io/item/fictomord.fictomord
+Sitemap: https://fictomord.github.io/src/fictomord.fictomord
